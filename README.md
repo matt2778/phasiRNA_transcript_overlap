@@ -8,12 +8,12 @@ These scripts were created to identify phasiRNA loci in the barley genome that o
 known barley protein coding transcripts.  The six different "parts" refer to the different regions
 surrounding and including the transcript:
 
-Part 1:	Find phasiRNA loci 1kb upstream of transcript start site (not including start site in query)
-Part 2:	Find phasiRNA loci overlapping with transcript start site
-Part 3:	Find phasiRNA loci overlapping in transcript location
-Part 4:	Find phasiRNA loci overlapping with transcript stop site
-Part 5:	Find phasiRNA loci within 1Kb downstream of transcript stop site (not including stop site in query)
-Part 6:	Find phasiRNA loci in the full range of 1Kb upstream to 1Kb downstream
+`Part 1:	Find phasiRNA loci 1kb upstream of transcript start site (not including start site in query)`  
+`Part 2:	Find phasiRNA loci overlapping with transcript start site`  
+`Part 3:	Find phasiRNA loci overlapping in transcript location`  
+`Part 4:	Find phasiRNA loci overlapping with transcript stop site`  
+`Part 5:	Find phasiRNA loci within 1Kb downstream of transcript stop site (not including stop site in query)`  
+`Part 6:	Find phasiRNA loci in the full range of 1Kb upstream to 1Kb downstream`  
 
 ## Input Files
 
